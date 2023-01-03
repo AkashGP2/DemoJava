@@ -1,2 +1,4 @@
-# DemoJava
+DemoJava
 Sample proj to explore git
+
+Added new line
