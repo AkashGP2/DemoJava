@@ -8,6 +8,6 @@ class Second {
     b = t.nextInt();
     int c = a+b;
     System.out.println("Sum is"+c);
-
+   System.out.println("new line added to program on 4th to devbranch");
  }    
 }
